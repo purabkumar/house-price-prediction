@@ -1,2 +1,11 @@
-# house-price-prediction
-Machine learning project that predicts house prices using Linear Regression and deploys an interactive web app with Streamlit.
+# House Price Prediction App
+
+This project predicts house prices using Machine Learning and Streamlit.
+
+Features used:
+- squareMeters
+- numPrevOwners
+- numberOfRooms
+- cityPartRange
+- hasStormProtector
+- floors
