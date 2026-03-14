@@ -1,5 +1,7 @@
 # 🏠 House Price Prediction using Machine Learning
+## 🚀 Live Demo
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://house-price-prediction-dar2nboupup2qubzubtcwg.streamlit.app/)
 ## Project Overview
 This project predicts house prices using machine learning techniques.
 
